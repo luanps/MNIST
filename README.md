@@ -1,5 +1,5 @@
-Este repositório consiste de um notebook Jupyter com o exercício
-de reconhecimento de dígitos utilizando a base de dados MNIST.
-Detalhes da solução descritos no documento ```mnist.ipynb```
+This repository contains a Jupyter notebook with a digit recognition solution 
+for the MNIST database.
+Details of the solution are described in ```mnist.ipynb```
 
-As bibliotecas utilizadas estão dispostas no arquivo ```requirements.txt```
+The libraries used are available in ```requirements.txt```.
